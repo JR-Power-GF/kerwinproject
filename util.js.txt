@@ -21,3 +21,5 @@ add from login
 
 77777-remote
 
+
+77777777-ping
